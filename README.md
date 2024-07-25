@@ -48,4 +48,5 @@ Worked on too many datasets in which best are here:
 - Email: faizan.faisal1020@gmail.com
 - LinkedIn: www.linkedin.com/in/muhammad-faizan-faisal-30b73325b
 - GitHub Profile: faizandataanalyst
-- Tableau Profile: Muhammad Faizan Faisal 
+- Tableau Profile: Muhammad Faizan Faisal
+  * Tableau Link:https://public.tableau.com/app/profile/faizan.faisal/vizzes
