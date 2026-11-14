@@ -2,7 +2,8 @@ Salam! I'm Muhammad Faizan Faisal, an aspiring AI/ML Engineer and Data Scientist
 
 I specialize in transforming raw data into practical solutions through exploratory data analysis, feature engineering, model development, evaluation, and deployment.
 
-*Technical Skills:*
+***Technical Skills:***
+
 • **Machine Learning:** Regression, Classification, Decision Trees, Random Forest, SVM, KNN, Naive Bayes, Ensemble Learning, Bagging, Boosting, Hyperparameter Tuning, Cross-Validation.
 • **Deep Learning:** ANN, CNN, TensorFlow, Keras, Image Classification, Transformers.
 • **Data Science:** EDA, Data Cleaning, Feature Engineering, Statistical Analysis, Hypothesis Testing, Predictive Analytics.
