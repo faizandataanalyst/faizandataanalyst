@@ -19,6 +19,7 @@ I specialize in transforming raw data into practical solutions through explorato
 • **Visualization:** Matplotlib, Seaborn, Plotly, Tableau.
 
 ***Featured Projects:***
+
 **1. ModelForge – End-to-End Machine Learning Platform**
 Developed an interactive ML platform that enables users to upload datasets, explore and preprocess data, train classification and regression models, evaluate performance, and generate predictions.
 
