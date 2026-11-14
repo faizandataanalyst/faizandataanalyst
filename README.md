@@ -46,6 +46,9 @@ My goal is to develop complete AI systems that go beyond model training to deliv
 I'm currently open to AI/ML opportunities where I can contribute to real-world projects, collaborate with experienced teams, and continue growing as an AI/ML Engineer.
 
 **Portfolio:** https://github.com/faizandataanalyst/Projects
+
 **GitHub:** https://github.com/faizandataanalyst
+
 **LinkedIn:** https://www.linkedin.com/in/muhammad-faizan-faisal-30b73325b/
+
 **Email:** faizan.faisal1020@gmail.com
