@@ -21,6 +21,7 @@ I specialize in transforming raw data into practical solutions through explorato
 ***Featured Projects:***
 
 **1. ModelForge – End-to-End Machine Learning Platform**
+
 Developed an interactive ML platform that enables users to upload datasets, explore and preprocess data, train classification and regression models, evaluate performance, and generate predictions.
 
 Implemented Docker containerization and GitHub Actions CI/CD for automated checks, Docker image builds, and publishing.
@@ -28,6 +29,7 @@ Implemented Docker containerization and GitHub Actions CI/CD for automated check
 Live Application: https://modelforge-tarkan.streamlit.app/
 
 **2. Diabetes Prediction App**
+
 Built an end-to-end ML application featuring a trained predictive model, interactive Streamlit interface, Docker containerization, and automated CI/CD.
 
 GitHub: https://github.com/faizandataanalyst/Diabetes-Prediction-App
